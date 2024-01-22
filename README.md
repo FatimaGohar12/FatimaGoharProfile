@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **MERN**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](fatimagohar582@gmail.com)**
+💬 Ask me about **ReactJS, NextJs ...**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
