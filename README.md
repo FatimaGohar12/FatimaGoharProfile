@@ -61,9 +61,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true)
     
-  <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12&size_weight=0.5&count_weight=0.5)
 </div>
+  <br/>
+  <div align=center>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12)](https://github.com/FatimaGohar12/github-readme-stats)
+  </div>
 
 <br/><br/>
 
