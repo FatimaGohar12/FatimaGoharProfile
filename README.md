@@ -59,7 +59,7 @@
 <br>
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12)](https://github.com/FatimaGohar12/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true)
 
     
   <br/>
