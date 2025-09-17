@@ -1,26 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FatimaGohar12.FatimaGohar12" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatima+Gohar!;+A+Passionate+Software+Developer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatima+Gohar!" />
 </h1>
 
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast | MERN Stack Explorer</h3>
+<h3 align="center">🚀 Passionate Software Developer from Pakistan 🇵🇰</h3>
 
 ---
 
-### 👩‍💻 About Me  
-- 🔭 I’m currently working on **a Marketplace Project**  
-- 🌱 I’m learning and mastering **MERN Stack & Advanced Next.js**  
-- 💬 Ask me about **React.js, Next.js, TailwindCSS, Chakra UI**  
-- 🎯 Goal: To become a **skilled Full-Stack Developer**  
-- ⚡ Fun fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs*  
+<div align="center">
+  🔭 Currently working on **a marketplace platform**<br>
+  🌱 Learning **MERN Stack**<br>
+  💬 Ask me about **ReactJS, Next.js, MongoDB, Node.js**<br>
+  ⚡ Fun fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs.* 😄
+</div>
 
 ---
 
-### 🌐 Connect with Me  
-<div align="center"> 
+<div align="center">
   <a href="mailto:fatimagohar582@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/fatima-gohar-8931651a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,32 +31,35 @@
 
 ---
 
-<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
-
+<h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,mysql,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,chakraui,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,mysql,tailwind,chakraui,bootstrap,git,github,vscode,figma" />
 </div>
 
 ---
 
-<h2 align="center">🐍 My GitHub Contributions</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FatimaGohar12/FatimaGohar12/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<h2 align="center">🐍 GitHub Contributions</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FatimaGohar12/FatimaGohar12/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<div align="center">
+<h2 align="center">⚡ GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+> ⚠️ **Note:** If GitHub stats are not loading due to rate limit issues, try later or consider using a [personal GitHub token](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance).
 
 ---
 
-<div align="center">
-    <h3>🚀 Thanks for Visiting! 🚀</h3>
-</div>
+<br>
+<p align="center">
+  Made with ❤️ by Fatima Gohar
+</p>
