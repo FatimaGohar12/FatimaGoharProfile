@@ -28,7 +28,7 @@ gpt i want to make impressive my GITHUB PROFILE PLZ UPDATE MY README.MD FUILE
   <a href="https://www.linkedin.com/in/fatima-gohar-8931651a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-website-beige-rho.vercel.app/" target="_blank">
+  <a href="https://portfolio-dev-fatima.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
