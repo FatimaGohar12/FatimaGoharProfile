@@ -1,78 +1,63 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FatimaGohar12.FatimaGohar12" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+FatimaGohar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatima+Gohar!;+A+Passionate+Software+Developer+🚀;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pakistan PK</h3>
+<h3 align="center">Frontend Developer | React & Next.js Enthusiast | MERN Stack Explorer</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **MERN**
+### 👩‍💻 About Me  
+- 🔭 I’m currently working on **a Marketplace Project**  
+- 🌱 I’m learning and mastering **MERN Stack & Advanced Next.js**  
+- 💬 Ask me about **React.js, Next.js, TailwindCSS, Chakra UI**  
+- 🎯 Goal: To become a **skilled Full-Stack Developer**  
+- ⚡ Fun fact: *Game of Thrones Night's Watch cloaks were made from IKEA rugs*  
 
-💬 Ask me about **ReactJS, NextJs ...**
+---
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
+### 🌐 Connect with Me  
 <div align="center"> 
   <a href="mailto:fatimagohar582@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fatima-gohar-8931651a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-website-beige-rho.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,chakraUI" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql," /><br>
-</div>
+---
 
-
-<br/>
-<hr/>
+<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,mysql,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,chakraui,git,github,vscode,figma" />
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true)
-    
+<h2 align="center">🐍 My GitHub Contributions</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FatimaGohar12/FatimaGohar12/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-  <br/>
-  <div align=center>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12)](https://github.com/FatimaGohar12/github-readme-stats)
-  </div>
 
-<br/><br/>
+---
 
-<hr/>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<div align="center">
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12&layout=compact&theme=radical)
 
+</div>
 
-<br/>
+---
+
+<div align="center">
+    <h3>🚀 Thanks for Visiting! 🚀</h3>
+</div>
