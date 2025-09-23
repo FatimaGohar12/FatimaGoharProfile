@@ -63,8 +63,8 @@
 </div>
   <br/>
   <div align=center>
-      
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaGohar12&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/Grade-A-brightgreen?style=for-the-badge" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaGohar12&hide=c,cpp,java&layout=compact&theme=radical)](https://github.com/FatimaGohar12/github-readme-stats)
 
